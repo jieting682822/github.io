@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-【当前论文的连接地址】(https://pan.baidu.com/s/1Vcbqo9ECVfVVpKlWWvhG8g)
+【当前论文的链接地址】(https://pan.baidu.com/s/1Vcbqo9ECVfVVpKlWWvhG8g)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
